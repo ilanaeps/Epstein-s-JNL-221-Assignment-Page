@@ -1,0 +1,67 @@
+/*This is the CSS page for our final template.*/
+
+.footer p {
+	background-color: #cccccc;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 0;
+}
+.header {
+	height: auto;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Georgia', serif;
+	background-color: #ff006e;
+}
+h4 {
+	font-style: italic;
+	font-size: 25px;
+	font-family: 'Georgia', serif;
+	text-align: center;
+	padding: 3px;
+	background-color: lightgray;
+	padding-top: 30px;
+	}
+
+h3 {
+	font-size: 35px;
+	text-decoration-line: underline;
+	color: darkred;
+}
+
+h2 {
+	font-size: 60px;
+	font-style: bold;
+	text-align: center;
+	padding: 3px;
+	background-color: lightgray;
+	color: darkred;
+}
+
+p {
+	font-style: initial;
+	font-size: 20px;
+	font-family: 'Georgia', serif;
+}
+
+img {
+	float: right;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-bottom: 5%;
+}
+
+iframe {
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 5%;
+}
+a{
+	color: rebeccapurple;
+	transition: all 0.2s linear; 
+}
+
+	a:hover{
+		color: darkred;
+	}
